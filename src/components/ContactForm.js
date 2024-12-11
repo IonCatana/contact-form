@@ -31,7 +31,7 @@ const ContactForm = () => {
         required
       />
       <Button type="submit" variant="contained" color="primary">
-        Submit
+        Submit test
       </Button>
     </Box>
   );
