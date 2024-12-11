@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/github.com/contact-form/static/js/main.4c4727c9.js",
-    "index.html": "/github.com/contact-form/index.html",
-    "main.4c4727c9.js.map": "/github.com/contact-form/static/js/main.4c4727c9.js.map"
+    "main.js": "/contact-form/static/js/main.4c4727c9.js",
+    "index.html": "/contact-form/index.html",
+    "main.4c4727c9.js.map": "/contact-form/static/js/main.4c4727c9.js.map"
   },
   "entrypoints": [
     "static/js/main.4c4727c9.js"
