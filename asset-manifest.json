@@ -1,10 +1,17 @@
 {
   "files": {
-    "main.js": "/contact-form/static/js/main.3c2932ae.js",
+    "main.css": "/contact-form/static/css/main.4f096d05.css",
+    "main.js": "/contact-form/static/js/main.1a48f6ae.js",
+    "static/media/Karla-Italic-VariableFont_wght.ttf": "/contact-form/static/media/Karla-Italic-VariableFont_wght.362e44a0d79d5fafc405.ttf",
+    "static/media/Karla-VariableFont_wght.ttf": "/contact-form/static/media/Karla-VariableFont_wght.1d835e644ae4118a28fc.ttf",
+    "static/media/Karla-Bold.ttf": "/contact-form/static/media/Karla-Bold.23ca816af95c228bcb4e.ttf",
+    "static/media/Karla-Regular.ttf": "/contact-form/static/media/Karla-Regular.f950111be01b92a807ba.ttf",
     "index.html": "/contact-form/index.html",
-    "main.3c2932ae.js.map": "/contact-form/static/js/main.3c2932ae.js.map"
+    "main.4f096d05.css.map": "/contact-form/static/css/main.4f096d05.css.map",
+    "main.1a48f6ae.js.map": "/contact-form/static/js/main.1a48f6ae.js.map"
   },
   "entrypoints": [
-    "static/js/main.3c2932ae.js"
+    "static/css/main.4f096d05.css",
+    "static/js/main.1a48f6ae.js"
   ]
 }
